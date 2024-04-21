@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Apk_Setoran_Hafalan_Alquran" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/lavender</item>
+        <item name="colorPrimary">@color/lilac</item>
+        <item name="colorPrimary">@color/violet</item>
+        <item name="colorPrimary">@color/lavender</item>
+    </style>
+
+    <style name="Theme.Apk_Setoran_Hafalan_Alquran" parent="Base.Theme.Apk_Setoran_Hafalan_Alquran" />
+</resources>

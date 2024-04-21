@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showin= "setoran_hafalan_alquran_view">
+
+    <group
+        android:checkableBehavior="single"/>
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title="Home"/>
+
+        <item
+            android:id="@+id/setoran"
+            android:icon="@drawable/setoran"
+            android:title="Setoran"/>
+
+        <item
+            android:id="@+id/riwayat"
+            android:icon="@drawable/riwayat"
+            android:title="Riwayat"/>
+
+        <item
+            android:id="@+id/daftarmahasiswa"
+            android:icon="@drawable/baseline_school_24"
+            android:title="Daftar Mahasiswa"/>
+
+    </menu>
+
